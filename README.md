@@ -8,18 +8,6 @@ Well commented code is extremely important. Take time to describe components, ho
 
 > Comment style should be simple and consistent within a single code base.
 
-## Installation
-
-1. Download the **CSS Comments snippets** folder and all of its contents from this repository here: https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets/archive/master.zip
-2. Extract the zip and drop the **css-comments-visualstudio-snippets** folder on your computer.
-3. In Visual Studio, navigate to **Tools** > **Code Snippet Manager**.
-4. Select language CSS from the language dropdown menu.
-5. Select the Import button at the bottom.
-6. Locate the **css-comments-visualstudio-snippets** folder and **select all snippets**.
-7. You should now see **css-comments-visualstudio-snippets** in the listing of CSS snippets under the Code Snippet Manager.
-8. Click OK to exit the Code Snippet Manager.
-9. Restart Visual Studio.
-
 ## Snippets
 
 To trigger a comment just put a **c-** followed by it's name, like so:
@@ -117,6 +105,18 @@ To trigger a comment just put a **c-** followed by it's name, like so:
 /* 0.2. TYPE ELEMENT
    ========================================================================== */
 ```
+
+## Installation
+
+1. Download the **CSS Comments snippets** folder and all of its contents from this repository here: https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets/archive/master.zip
+2. Extract the zip and drop the **css-comments-visualstudio-snippets** folder on your computer.
+3. In Visual Studio, navigate to **Tools** > **Code Snippet Manager**.
+4. Select language CSS from the language dropdown menu.
+5. Select the Import button at the bottom.
+6. Locate the **css-comments-visualstudio-snippets** folder and **select all snippets**.
+7. You should now see **css-comments-visualstudio-snippets** in the listing of CSS snippets under the Code Snippet Manager.
+8. Click OK to exit the Code Snippet Manager.
+9. Restart Visual Studio.
 
 ## Contributing
 
