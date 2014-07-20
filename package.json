@@ -1,0 +1,26 @@
+{
+  "name": "css-comments-visualstudio-snippets",
+  "version": "0.1.0",
+  "description": "CSS comments snippets for Visual Studio 2012/2013",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets"
+  },
+  "keywords": [
+    "css",
+    "comments",
+    "visual-studio",
+    "snippets"
+  ],
+  "author": {
+    "name": "Breno Polanski",
+    "email": "breno.polanski@gmail.com",
+    "web": "http://brenopolanski.com",
+    "twitter": "brenopolanski"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets/issues"
+  },
+  "homepage": "https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets"
+}

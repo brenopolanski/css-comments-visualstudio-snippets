@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>c-multi</Title>
+      <Author>Breno Polanski (@brenopolanski)</Author>
+      <Description>Multiple comment with TODO snippet</Description>
+      <HelpUrl>https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets</HelpUrl>
+      <Shortcut>c-multi</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal Editable="true">
+          <ID>comment</ID>
+          <ToolTip>Comment to be modified</ToolTip>
+          <Default>comment</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="css" Kind="any">
+<![CDATA[/**
+ * Short description using Doxygen-style comment format
+ *
+ * The first sentence of the long description starts here and continues on this
+ * line for a while finally concluding here at the end of this paragraph.
+ *
+ * The long description is ideal for more detailed explanations and
+ * documentation. It can include example HTML, URLs, or any other information
+ * that is deemed necessary or useful.
+ *
+ * @tag This is a tag named 'tag'
+ *
+ * TODO: This is a todo statement that describes an atomic task to be completed
+ *   at a later date. It wraps after 80 characters and following lines are
+ *   indented by 2 spaces.
+ */$end$]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
