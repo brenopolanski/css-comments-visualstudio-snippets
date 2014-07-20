@@ -8,7 +8,18 @@ Well commented code is extremely important. Take time to describe components, ho
 
 > Comment style should be simple and consistent within a single code base.
 
-To install through Package Control, search for [**CSS Comments**](https://sublime.wbond.net/packages/CSS%20Comments). If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation). If you insist to not install it, you can download the package and put it manually inside your Pacakages directory. It should work but will not update automatically.
+## Installation
+
+1. Download the **CSS Comments snippets** folder and all of its contents from this respository here: https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets/archive/master.zip
+2. Extract the zip and drop the **CSS Comments snippets** folder into the **Documents** > **Visual Studio 2012 or 2013** > **Code Snippets** > **Visual Web Developer** > **My CSS Snippets** folder on your computer.
+3. In Visual Studio, navigate to Tools > Code Snippet Manager.
+4. Select language CSS from the language dropdown menu.
+5. Select the Add button at the bottom.
+6. Locate the "Documents/Visual Studio 2012 or 2013/Code Snippets/css-comments-visualstudio-snippets" folder and click **Select Folder**.
+7. You should now see **css-comments-visualstudio-snippets** in the listing of CSS snippets under the Code Snippet Manager.
+8. Change the language dropdown at the top of the Code Snippet Manager to CSS.
+9. Click OK to exit the Code Snippet Manager.
+10. Restart Visual Studio.
 
 ## Snippets
 
