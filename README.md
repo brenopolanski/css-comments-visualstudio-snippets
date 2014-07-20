@@ -10,16 +10,15 @@ Well commented code is extremely important. Take time to describe components, ho
 
 ## Installation
 
-1. Download the **CSS Comments snippets** folder and all of its contents from this respository here: https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets/archive/master.zip
-2. Extract the zip and drop the **CSS Comments snippets** folder into the **Documents** > **Visual Studio 2012 or 2013** > **Code Snippets** > **Visual Web Developer** > **My CSS Snippets** folder on your computer.
-3. In Visual Studio, navigate to Tools > Code Snippet Manager.
+1. Download the **CSS Comments snippets** folder and all of its contents from this repository here: https://github.com/visualstudio-code-snippets/css-comments-visualstudio-snippets/archive/master.zip
+2. Extract the zip and drop the **css-comments-visualstudio-snippets** folder on your computer.
+3. In Visual Studio, navigate to **Tools** > **Code Snippet Manager**.
 4. Select language CSS from the language dropdown menu.
-5. Select the Add button at the bottom.
-6. Locate the "Documents/Visual Studio 2012 or 2013/Code Snippets/css-comments-visualstudio-snippets" folder and click **Select Folder**.
+5. Select the Import button at the bottom.
+6. Locate the **css-comments-visualstudio-snippets** folder and **Select all archives**.
 7. You should now see **css-comments-visualstudio-snippets** in the listing of CSS snippets under the Code Snippet Manager.
-8. Change the language dropdown at the top of the Code Snippet Manager to CSS.
-9. Click OK to exit the Code Snippet Manager.
-10. Restart Visual Studio.
+8. Click OK to exit the Code Snippet Manager.
+9. Restart Visual Studio.
 
 ## Snippets
 
