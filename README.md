@@ -15,7 +15,7 @@ Well commented code is extremely important. Take time to describe components, ho
 3. In Visual Studio, navigate to **Tools** > **Code Snippet Manager**.
 4. Select language CSS from the language dropdown menu.
 5. Select the Import button at the bottom.
-6. Locate the **css-comments-visualstudio-snippets** folder and **Select all snippets**.
+6. Locate the **css-comments-visualstudio-snippets** folder and **select all snippets**.
 7. You should now see **css-comments-visualstudio-snippets** in the listing of CSS snippets under the Code Snippet Manager.
 8. Click OK to exit the Code Snippet Manager.
 9. Restart Visual Studio.
